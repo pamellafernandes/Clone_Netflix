@@ -1,4 +1,4 @@
-le<h1 align="center">Clone da Netflix</h1>
+<h1 align="center">Clone da Netflix</h1>
 
 ## Descrição do Projeto
 
@@ -23,8 +23,8 @@ le<h1 align="center">Clone da Netflix</h1>
 
 <p> O projeto foi inspirado na landing page da Netflix.</p>
 
-<h2 align="center"> 
-	Projeto concluído com sucesso... 🚀
-</h2>
+<h2 align="center">Projeto concluído com sucesso... 🚀</h2>
 
 <h2 align="center">Abaixo um vídeo do projeto... 📹</h2>
+
+https://user-images.githubusercontent.com/64989764/151043638-bcdb8ee1-643b-48f3-95e2-a8f3b0d9c053.mp4
