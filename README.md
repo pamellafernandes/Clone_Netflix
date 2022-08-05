@@ -28,3 +28,6 @@
 <h2 align="center">Abaixo um vídeo do projeto... 📹</h2>
 
 https://user-images.githubusercontent.com/64989764/151043638-bcdb8ee1-643b-48f3-95e2-a8f3b0d9c053.mp4
+
+### Deploy
+https://clone-netflix-pf.vercel.app
